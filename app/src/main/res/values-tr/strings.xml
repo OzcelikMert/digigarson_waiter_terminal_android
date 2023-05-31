@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digigarson</string>
+    <string name="branch_code">Şube Kodu</string>
+    <string name="table_section">Masa Bölümü</string>
+    <string name="login">Giriş</string>
+    <string name="no_internet">İnternet yok!</string>
+    <string name="no_internet_check">Bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <string name="okay">Tamam</string>
+    <string name="wrong_values">Lütfen değerleri doğru giriniz!</string>
+    <string name="wrong_values_title">Yanlış Değerler!</string>
+    <string name="exit">Çıkış</string>
+    <string name="update_message_title">Güncelleme Mesajı</string>
+    <string name="update_message">Uygulamanın daha yüksek bir sürümü mevcut. Lütfen uygulamayı güncelleyin.</string>
+    <string name="update">Güncelle</string>
+    <string name="cancel">İptal</string>
+    <string name="waiting">Lütfen Bekleyin...</string>
+    <string name="start_browser_title">Browser Ayarları Mesajı.</string>
+    <string name="start_browser">Browser başlatılırken bir hata meydana geldi lütfen desteğe bildiriniz.</string>
+    <string name="exit_message">Digigarson\'dan çıkmak istediğinize emin misiniz?</string>
+    <string name="exit_message_title">Çıkış Mesajı</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Digigarson</string>
+    <string name="branch_code">Branch Code</string>
+    <string name="table_section">Table Section</string>
+    <string name="login">Login</string>
+    <string name="no_internet">No internet!</string>
+    <string name="no_internet_check">Check your connection and try again.</string>
+    <string name="okay">Okay</string>
+    <string name="wrong_values">Please enter the values ​​correctly!</string>
+    <string name="wrong_values_title">Wrong Values!</string>
+    <string name="exit">Exit</string>
+    <string name="update_message_title">Update Message</string>
+    <string name="update_message">A higher version of the application is available. Please you update application.</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="waiting">Please Waiting...</string>
+    <string name="start_browser_title">Browser Settings Message.</string>
+    <string name="start_browser">An error occurred while launching the browser, please inform support.</string>
+    <string name="exit_message">Are you sure to exit Digigarson?</string>
+    <string name="exit_message_title">Exit Message</string>
+</resources>
